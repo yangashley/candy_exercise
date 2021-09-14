@@ -18,7 +18,7 @@ the data structure made in `create_new_candy_data_structure()`.
 '''
 
 friend_favorites = [
-    ["Sally", [ "lollipop”, “bubble gum", "laffy taffy"]],
+    ["Sally", [ "lollipop", "bubble gum", "laffy taffy"]],
     [ "Bob", ["milky way", "licorice", "lollipop"]],
 	[ "Arlene", ["chocolate bar", "milky way", "laffy taffy"]],
 	[ "Carlie", ["nerds", "sour patch kids", "laffy taffy"]]
