@@ -24,13 +24,13 @@ the data structure made in `create_new_candy_data_structure()`.
 '''
 
 
-
 def create_new_candy_data_structure(data):
     pass 
 
 
 def get_friends_who_like_specific_candy(data, candy_name):
     pass
+
 
 def create_candy_set(data):
     pass 
