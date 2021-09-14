@@ -1,4 +1,7 @@
 '''
+DIRECTIONS
+==========
+
 1. Given the list `friend_favorites`, create 
 a new data structure in the function `create_new_candy_data_structure` 
 that describes the different types of candy paired with a list of friends that 
