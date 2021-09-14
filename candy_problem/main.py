@@ -8,10 +8,10 @@ that describes the different kinds of candy paired with a list of friends that
 like that candy. 
 
 friend_favorites = [
-    [ "Sally", [ "lollipop", "bubble gum", "laffy taffy"]],
-    [ "Bob", ["milky way", "licorice", "lollipop"]],
-	[ "Arlene", ["chocolate bar", "milky way", "laffy taffy"]],
-	[ "Carlie", ["nerds", "sour patch kids", "laffy taffy"]]
+    [ "Sally", [ "lollipop", "bubble gum", "laffy taffy" ]],
+    [ "Bob", [ "milky way", "licorice", "lollipop" ]],
+	[ "Arlene", [ "chocolate bar", "milky way", "laffy taffy" ]],
+	[ "Carlie", [ "nerds", "sour patch kids", "laffy taffy" ]]
 ]
 
 2. In `get_friends_who_like_specific_candy()`, return friends who like lollipops.
