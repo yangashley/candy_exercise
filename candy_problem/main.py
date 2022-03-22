@@ -2,7 +2,7 @@
 DIRECTIONS
 ==========
 
-1. In `get_friends_most_favored_candy()`, return a dictionary of candy names and the
+1. In `get_friends_favorite_candy_count()`, return a dictionary of candy names and the
 amount of times each candy appears in the `friend_favorites` list.
 
 friend_favorites = [
@@ -35,7 +35,7 @@ write tests to handle edge cases.
 '''
 
 #1
-def get_friends_most_favored_candy(favorites):
+def get_friends_favorite_candy_count(favorites):
     pass
 
 #2
