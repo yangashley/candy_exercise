@@ -1,5 +1,5 @@
 '''
-DIRECTIONS
+DIRECTIONS + Ashley's Change
 ==========
 
 1. In `get_friends_favorite_candy_count()`, return a dictionary of candy names and the
